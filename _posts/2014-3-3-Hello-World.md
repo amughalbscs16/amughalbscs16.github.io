@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
----
+title: Welcome to AliHassaanMughal Blog
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am a student of Computer Science Batch2k16 Bachelors at National Unirsity of Sciences and Technology Islamabad.
+I am presently motivated towards studying Machine Learning, Artificial Intelligence and Distributed Computing.
+I will be sharing my research from today onwards. 
+I have worked with different technologies like Java, C, C++, Laravel and Python.
+I have worked in a Lab and a organization as a Web Development Intern mostly on Php with a flavour of HTML,CSS,JS.
